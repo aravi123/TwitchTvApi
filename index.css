@@ -1,0 +1,25 @@
+.twitch{
+	background-color: blue;
+	height: 100px;
+}
+li img{
+	height: 50px;
+	width: 50px;
+}
+li{
+	position: relative;
+	margin-top: 10px;
+	display: flex;
+	margin-left: 10%;
+}
+ul{
+	position: relative;
+	margin-top: 50px;
+	padding-top: 100px;	
+}
+.channel{
+	margin-left: 15%;
+}
+.Content{
+	margin-left: 20%;
+}
